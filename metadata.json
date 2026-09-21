@@ -1,0 +1,6 @@
+{
+  "name": "AniMood AI",
+  "description": "AI-powered entertainment discovery and mood-based recommendation platform for Anime, Manga, Donghua, Manhwa, and Manhua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
